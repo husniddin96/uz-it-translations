@@ -13,7 +13,7 @@
 |10| Context |  |  |
 |11| Double |  |  |
 |12| File | Fayl |  |
-|13| Framework |  |  |
+|13| Framework | Freymwork |  |
 |14| Graph |  |  |
 |15| Hash |  |  |
 |16| Integer | Butun son |  |
